@@ -1,0 +1,11 @@
+Para rodar o programa, clique no executável "Trabalho 3.exe" e garanta que haja o respectivo arquivo "input.csv" correspondente na mesma pasta que ele. Isso gerará o arquivo de saída "output.txt".
+O arquivo "input.csv" deve ser formatado da seguinte forma:
+Linha 1: o passo
+Linha 2: o tempo
+
+A terceira linha é opcional e se não for passada irá retornar os valores default passados no trabalho.
+Linha 3: as constantes m, c, k, a1, a2, a3, w1, w2, w3
+
+O arquivo do tipo .csv deve ter valores na mesma linha separados por vírgulas. No caso a linha com as constantes deve ter apenas, por exemplo: "1, 0.1, 2, 1, 2, 1.5, 0.05, 1, 2". Sem as aspas
+
+Números de ponto flutante devem ser passados com o ponto no lugar da vírgula: "1.5", não "1,5"

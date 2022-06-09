@@ -1,0 +1,41 @@
+Constantes c1, c2, c3, c4: [1.0, 2.0, 3.0, 4.0]
+As margens de análise são: 1.0 e 5.0
+O resultado da Bisseção é Não há raízes ou há múltiplas raízes no intervalo .
+
+
+As margens de análise são: 1.0 e 5.0
+O resultado da Newton é Não há raízes ou há múltiplas raízes no intervalo.
+
+
+Constantes c1, c2, c3, c4: [1.0, 2.0, 3.0, 4.0]
+As margens de análise são: 1.0 e 5.0. E o número de pontos é 10
+O resultado da quadratura gaussiana é 12883.85552912372
+
+
+Constantes c1, c2, c3, c4: [1.0, 2.0, 3.0, 4.0]
+As margens de análise são: 1.0 e 5.0. E o número de pontos é 5
+O resultado da quadratura polinomial é 13261.774482873258
+
+
+Constantes c1, c2, c3, c4: [1.0, 2.0, 3.0, 4.0]
+O x é 5.0 e o delta é 0.1
+O resultado da derivada para frente é 50312.805794908236
+
+
+Constantes c1, c2, c3, c4: [1.0, 2.0, 3.0, 4.0]
+O x é 5.0 e o delta é 0.1
+O resultado da derivada para trás é 50312.805794908236
+
+
+Constantes c1, c2, c3, c4: [1.0, 2.0, 3.0, 4.0]
+O x é 5.0 e o delta é 0.1
+O resultado da derivada central é 45847.80573234508
+
+
+Constantes c1, c2, c3, c4: [1.0, 2.0, 3.0, 4.0]
+O x é: 5.0 e o delta é0.1 o delta2 é 5.0
+O resultado da extrapolação de Richard é -1928951.397939871
+
+
+
+

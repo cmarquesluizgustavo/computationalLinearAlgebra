@@ -1,0 +1,14 @@
+Para rodar o programa, clique no executável "Trabalho 3.exe" e garanta que haja o respectivo arquivo "input.csv" correspondente na mesma pasta que ele. Isso gerará o arquivo de saída "output.txt".
+
+Como há para cada tipo de operação (derivação, integração e encontrar raízes) mais de uma possível rotina, é utilizado 2 ICOD, um para o tipo de operação e outro para a rotina desejada.
+Como cada rotina tem diferentes entradas, embaixo é explicado o que cada linha do input.csv deve ser para a rotina desejada. Não faz sentido haver um delta2 para as quadraturas, assim como não há intervalo nas derivadas, dessa forma o mesmo arquivo pode ser lido de diferentes formas para desempenhar diferentes algoritmos.
+
+O arquivo "input.csv" deve ser formatado da seguinte forma:
+Linha 1: ICOD1, ICOD2
+Linha 2: Constantes c1, c2, c3, c4
+Linha 3: Intervalo a, b (no caso do método das raízes ou das quadraturas) ou x, delta (no caso das derivadas ou Richard)
+Linha 4: Tolerância para as método das raízes, ou o número de pontos no caso das quadraturas, ou o delta2 no caso de richard
+
+O arquivo do tipo .csv deve ter valores na mesma linha separados por vírgulas. No caso a linha com as constantes deve ter apenas, por exemplo: "1.5 0.1, 2, 1". Sem as aspas
+
+Números de ponto flutante devem ser passados com o ponto no lugar da vírgula: "1.5", não "1,5"
