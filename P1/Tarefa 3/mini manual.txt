@@ -1,0 +1,12 @@
+Para rodar o programa, clique no executável "Trabalho 3.exe" e garanta que haja o arquivo "input.csv" na mesma pasta que ele. Isso gerará o arquivo de saída.
+O arquivo "input.csv" deve ser formatado da seguinte forma:
+Linha 1: o ICOD
+Linha 2: o n número de pares ordenados
+Então os pares ordenados serão lidos da seguinte forma: cada linha do arquivo é um par ordenado separado por vírgula, com o x na primeira posição e o y na segunda.
+Última linha: o x alvo
+
+O ICOD segue o pedido no trabalho: 
+1. Interpolação (ICOD = 1);
+2. Regressão (ICOD = 2)
+
+Números de ponto flutante devem ser passados com o ponto no lugar da vírgula: "1.5", não "1,5"

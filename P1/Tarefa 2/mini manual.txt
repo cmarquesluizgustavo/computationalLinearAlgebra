@@ -1,0 +1,13 @@
+Para rodar o programa, clique no executável "Trabalho 2.exe" e garanta que haja o respectivo arquivo "input.csv" na mesma pasta que ele. Isso gerará o arquivo de saída.
+O arquivo "input.csv" deve ser formatado da seguinte forma:
+Linha 1: o n
+Linha 2: o n ICOD
+Linha 3: o IDET
+Linha 4: A Tolm
+Então a matriz A será lida da seguinte forma: cada linha da matriz é uma linha do arquivo, e cada elemento deve ser separado por uma vírgula
+
+O ICOD segue o pedido no trabalho: 
+1. Método da Potência (ICOD = 1);
+2. Método de Jacobi (ICOD = 2)
+
+Números de ponto flutante devem ser passados com o ponto no lugar da vírgula: "1.5", não "1,5"

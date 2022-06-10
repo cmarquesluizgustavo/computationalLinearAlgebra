@@ -1,0 +1,16 @@
+Para rodar o programa, clique no executável "Trabalho 2.exe" e garanta que haja o respectivo arquivo "input.csv" correspondente na mesma pasta que ele. Isso gerará o arquivo de saída.
+O arquivo "input.csv" deve ser formatado da seguinte forma:
+Linha 1: o n
+Linha 2: o ICOD
+Linha 3: o IDET
+Linha 4: o Tolm
+Então a matriz A será lida da seguinte forma: cada linha da matriz é uma linha do arquivo, e cada elemento deve ser separado por uma vírgula
+Então o vetor será lido da seguinte forma: o vetor deve estar na mesma linha, com os elementos separados por vírgula.
+
+O ICOD segue o pedido no trabalho: 
+1. Decomposição LU (ICOD =1);
+2. Decomposição de Cholesky (ICOD =2)
+3. Procedimento iterativo Jacobi (ICOD =3) e
+4. Procedimento iterativo Gauss-Seidel (ICOD =4).
+
+Números de ponto flutante devem ser passados com o ponto no lugar da vírgula: "1.5", não "1,5"

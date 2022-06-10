@@ -1,0 +1,6 @@
+Método da interpolação:
+Valor y estimado: -1.0
+
+Método da regressão:
+Valor y estimado: -0.4999999999999998
+
